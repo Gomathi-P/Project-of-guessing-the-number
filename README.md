@@ -1,7 +1,8 @@
+
 Project of guessing the number
 
 
-In [ ]:
+
 import random
 a=0
 n=random.randint(1,20)
@@ -38,3 +39,9 @@ Guess a number between 1 to 20
 8
 8
 You guessed correctly
+
+
+
+
+
+
