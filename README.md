@@ -3,6 +3,10 @@ Project of guessing the number
 
 
 
+
+
+
+
 import random
 a=0
 n=random.randint(1,20)
@@ -23,6 +27,15 @@ if guess==n:
 if guess!=n:
     n=str(n)
     print("Try again")
+
+    
+    
+    
+ Output
+    
+
+
+
 Guess a number between 1 to 20
 5
 5
@@ -39,6 +52,9 @@ Guess a number between 1 to 20
 8
 8
 You guessed correctly
+
+
+
 
 
 
