@@ -31,7 +31,7 @@ if guess!=n:
     
     
     
- Output of the code
+ Output of the code is given below
     
 
 
